@@ -6,7 +6,7 @@ function App() {
  
 
   return (
-    <main className="app bg-teal-500 transition-all ease-in">
+    <main className="app bg-teal-100 transition-all ease-in">
       <Home />
       <CanvasModel />
       <Customizer />
